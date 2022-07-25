@@ -29,8 +29,6 @@ function SalesCard() {
             })
     }, [minDate, maxDate]);
 
-
-
     return (
         <div className="dsmeta-card">
             <h2 className="dsmeta-sales-title">Vendas</h2>
